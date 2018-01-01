@@ -1,4 +1,4 @@
-# SimpleSQL
+# SimpleSQLite
 
 ### SQL Structured Query Language !!!
 
